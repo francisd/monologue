@@ -1,5 +1,4 @@
 require "truncate_html"
-require "ckeditor"
 require "select2-rails"
 require "jquery-rails"
 require "sass-rails"
