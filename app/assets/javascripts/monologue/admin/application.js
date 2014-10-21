@@ -6,8 +6,6 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require ckeditor/override
-//= require ckeditor/init
 //= require monologue/admin/ckeditor-config
 //= require monologue/admin/posts
 //= require select2
